@@ -1,3 +1,3 @@
 tellraw @a {"rawtext":[{"text":"§9Minecraft Death Swap\n "}]}
 tellraw @a {"rawtext":[{"text":"§7Info:\n§6Every _ minutes, you will be teleported to the other player's position.\n§6The aim of the game is to kill the other player (no PvP)\n "}]}
-tellraw @a {"rawtext":[{"text":"§7Setup:\n§7Step 1: §3tag one person with p1 and the other with p2\n§7*If someone is recording, it is recommended that they are p1\n§7Step 2: §3Create a command block system of your liking and set it to run /function swap\n§7Step 3: §3Set a ticking area so the command blocks don't stop working when the chunk is unloaded"}]}
+tellraw @a {"rawtext":[{"text":"§7Setup:\n§7Step 1: §3tag one person with p1 and the other with p2\n§7*If someone is recording, it is recommended that they are p1\n§7Step 2: §3Create a command block system of your liking and set it to run /function swap\n§7Step 3: §3Set a ticking area so the command blocks don't stop working when the chunk is unloaded with /tickingarea"}]}
