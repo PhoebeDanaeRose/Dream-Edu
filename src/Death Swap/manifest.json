@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Dream's Minecraft Death Swap for Education Edition",
+        "name": "Minecraft Death Swap [DeadHello]",
+        "uuid": "30082b7d-3bf4-44cc-8419-f51290ca3f24",
+        "version": [ 0, 1, 0 ],
+        "min_engine_version": [ 1, 12, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Created by DeadHello",
+            "type": "data",
+            "uuid": "2ceaf2a8-cf75-4577-9dfc-22aebb56295f",
+            "version": [0, 1, 0]
+        }
+    ]
+}
